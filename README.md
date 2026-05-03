@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset?selec
 - churn-analysis-powerbi.pbix : main analyses file
 - Screenshots : Images of visualization
 
-## 📊 Analysis Performed
+## 📊 Analysis 
 - Churn Rate by Usage Frequency Group
 - Churn Rate by Support Calls Group
 - Churn Rate by Subscription Type

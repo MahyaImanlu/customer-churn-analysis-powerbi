@@ -33,7 +33,8 @@ https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset?selec
 - Recommendations:
    Improve customer support to resolve issues faster and reduce repeat calls. Strengthen onboarding to reduce early churn. Encourage longer contracts through         incentives. Closely monitor customers in the 1–2 year tenure segment and offer targeted retention actions. Also, increase engagement to improve usage and          reduce churn.
 
-
+## ▶️ How to Run
+- Download this file : churn-analysis-powerbi.pbi 
 
 ## 👨‍💻 Author
 Mahya
